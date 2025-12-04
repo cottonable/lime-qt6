@@ -1,0 +1,33 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- QML Files -->
+        <file>assets/qml/main.qml</file>
+        <file>assets/qml/EditorView.qml</file>
+        <file>assets/qml/Minimap.qml</file>
+        <file>assets/qml/Sidebar.qml</file>
+        <file>assets/qml/TabBar.qml</file>
+        <file>assets/qml/CommandPalette.qml</file>
+        <file>assets/qml/StatusBar.qml</file>
+        <file>assets/qml/Theme.qml</file>
+        <file>assets/qml/Style.qml</file>
+        
+        <!-- Icons -->
+        <file>assets/icons/file.svg</file>
+        <file>assets/icons/folder.svg</file>
+        <file>assets/icons/folder-open.svg</file>
+        <file>assets/icons/close.svg</file>
+        <file>assets/icons/search.svg</file>
+        <file>assets/icons/settings.svg</file>
+        <file>assets/icons/terminal.svg</file>
+        <file>assets/icons/git.svg</file>
+        <file>assets/icons/debug.svg</file>
+        <file>assets/icons/extension.svg</file>
+        
+        <!-- Fonts -->
+        <file>assets/fonts/JetBrainsMono-Regular.ttf</file>
+        <file>assets/fonts/JetBrainsMono-Bold.ttf</file>
+        <file>assets/fonts/JetBrainsMono-Italic.ttf</file>
+        <file>assets/fonts/JetBrainsMono-BoldItalic.ttf</file>
+    </qresource>
+</RCC>
